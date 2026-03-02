@@ -1,0 +1,13 @@
+name: molecular-graph
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit
+  - pubchempy
+  - networkx
+  - scipy
+  - bokeh
+  - panel
+  - ipywidgets
+  - ipyfilechooser
