@@ -4,12 +4,14 @@
 - Mohamad El Nahas
 
 ### About the Notebook
+
 The Jupyter notebook utilizes mol and sdf files to build iterable graphs via networkx representing chemical structures of molecules. The test data represents those of small-molecule drugs. The created graphs are then utilized to manually calculate graph inidces utilized in early stages of drug discovery, and then validated using the networkx package.
+
 ---
 
 ### Setup Instructions
 
-Before running the notebook,make sure the `validation_case` is in the same directory as the notebook and is reachable.  
+Before running the notebook,make sure the `validation_case` is in the same directory as the notebook and is reachable. 
 
 ---
 
