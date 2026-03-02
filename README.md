@@ -23,7 +23,7 @@ All test cases are organized in the `test_cases` directory.
 
 ### Running the Notebook
 
-For a quick test run, you can try it out [here]()
+For a quick test run, you can try it out [here](https://mybinder.org/v2/gh/ilhamM5/molecular-graph-networkx/0ee5d082371529a4100147094526f5175499596a?urlpath=lab%2Ftree%2FSubmission.ipynb)
 
 To get started:
 
