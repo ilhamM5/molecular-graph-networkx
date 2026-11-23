@@ -28,5 +28,5 @@ Before locally running the notebook, make sure the `validation_case` is in the s
 
 ### Test Cases
 
-All test cases are organized in the `test_cases` directory.
+All test cases are organized in the `data` directory.
 
