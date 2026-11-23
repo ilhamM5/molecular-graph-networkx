@@ -11,7 +11,7 @@ The Jupyter notebook utilizes `mol` and `sdf` files to build iterable graphs via
 
 ### Running the Notebook
 
-For a quick test run, you can try it out [here](https://mybinder.org/v2/gh/ilhamM5/molecular-graph-networkx/0ee5d082371529a4100147094526f5175499596a?urlpath=lab%2Ftree%2FSubmission.ipynb)
+For a quick test run, you can try it out [here](https://plmbinder.math.cnrs.fr/binder/v2/gh/ilhamM5/molecular-graph-networkx/fa435ba8719b5c083b45b852b2a2ae6db442e88d?urlpath=lab%2Ftree%2FSubmission.ipynb)
 
 To get started:
 
